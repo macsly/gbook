@@ -19,5 +19,7 @@
     foreach ($monolog as $k => $v) {
         echo "<br />$k: $v<br>";
     }
+  echo "<h3>Конец 2-го вывода....</h3> <br />";
+
 
 ?>
